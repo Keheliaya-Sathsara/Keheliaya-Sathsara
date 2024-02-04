@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keheliaya-sathsara&label=Profile%20views&color=0e75b6&style=flat" alt="keheliaya-sathsara" /> </p>
 
-- 🌱 I’m currently learning **React Native, flutter & python**
+- 🌱 I’m currently learning **New programming languages and technologies**
+
+- 💻 Read my blog posts **https://medium.com/@keheliyasm**
 
 - 💬 Ask me about **Android**
 
