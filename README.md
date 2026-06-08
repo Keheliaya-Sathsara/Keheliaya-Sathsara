@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keheliaya-sathsara&label=Profile%20views&color=0e75b6&style=flat" alt="keheliaya-sathsara" /> </p>
 
-- 🌱 I’m currently specialized in **Front-end Development with Angular**
+- 🌱 I’m currently specialized in **Full-stack Development**
 
 - 💻 Read my blog posts **https://medium.com/@keheliyasm**
 
-- 💬 Ask me about **Angulart**
+- 💬 Ask me about **Angular & NextJS**
 
 - 📫 How to reach me **keheliyasm@gmail.com**
 
