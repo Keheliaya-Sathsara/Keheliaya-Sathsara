@@ -123,6 +123,7 @@ fun_fact    : "I am funny" — probably true
 
 ## 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Keheliaya-Sathsara&theme=onedark&row=2&column=3)]
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=keheliaya-sathsara&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&v=2" width="100%" />
 </div>
