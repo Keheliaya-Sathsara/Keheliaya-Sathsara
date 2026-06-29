@@ -126,25 +126,6 @@ fun_fact    : "I am funny" — probably true
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Keheliaya-Sathsara&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&v=2" width="100%" />
 </div>
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/trophies?username=keheliaya-sathsara&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/trophies?username=keheliaya-sathsara&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/trophies?username=keheliaya-sathsara&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/trophies?username=keheliaya-sathsara&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/trophies?username=keheliaya-sathsara&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
-</div>
 
 ---
 
